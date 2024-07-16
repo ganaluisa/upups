@@ -5,12 +5,12 @@ repo: upups # The name of this repository
 sites:
   - name: UPS
     url: https://www.ups.edu.ec
+  - name: UCuenca
+    url: https://www.ucuenca.edu.ec    
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
     url: forwardemail.net
     port: 80
