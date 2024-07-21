@@ -4,19 +4,19 @@
     "url": "https://www.ups.edu.ec",
     "icon": "https://icons.duckduckgo.com/ip3/www.ups.edu.ec.ico",
     "slug": "ups",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1297,
-    "timeDay": 1292,
-    "timeWeek": 1297,
-    "timeMonth": 1297,
-    "timeYear": 1297,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 1282,
+    "timeDay": 1236,
+    "timeWeek": 1282,
+    "timeMonth": 1282,
+    "timeYear": 1282,
     "dailyMinutesDown": {
-      "2024-07-21": 0
+      "2024-07-21": 44
     }
   },
   {
