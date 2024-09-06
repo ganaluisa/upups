@@ -26,18 +26,20 @@
     "url": "https://www.ucuenca.edu.ec",
     "icon": "https://icons.duckduckgo.com/ip3/www.ucuenca.edu.ec.ico",
     "slug": "u-cuenca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1301,
-    "timeDay": 1262,
-    "timeWeek": 1378,
-    "timeMonth": 1342,
-    "timeYear": 1301,
-    "dailyMinutesDown": {}
+    "time": 1465,
+    "timeDay": 5641,
+    "timeWeek": 2459,
+    "timeMonth": 1622,
+    "timeYear": 1465,
+    "dailyMinutesDown": {
+      "2024-09-06": 0
+    }
   },
   {
     "name": "Google",
