@@ -4,7 +4,7 @@
     "url": "https://www.ups.edu.ec",
     "icon": "https://icons.duckduckgo.com/ip3/www.ups.edu.ec.ico",
     "slug": "ups",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1439,
     "timeYear": 1476,
     "dailyMinutesDown": {
+      "2024-09-30": 0,
       "2024-09-06": 384,
       "2024-07-28": 260,
       "2024-07-21": 44
